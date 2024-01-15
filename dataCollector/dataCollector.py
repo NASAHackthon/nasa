@@ -1,35 +1,86 @@
 #! python3
 # dataCollector.py - collect moonquake data and convert it into json file
-# data will includes informations like name latitude longtitude depth type time 
+# data will includes informations like name, latitude, longtitude, depth, type, time
 
-import openpyxl, json
+import json, csv
 
-# process A type data(mostly deep moonquake)
-# replace with datapath in your computor
-wb = openpyxl.load_workbook("C:\\Users\\Cooki\\Downloads\\nakamura_2005_dm_locations.xlsx")
-sheet = wb['nakamura_2005_dm_locations']
 data_list = []
-for rowNum in range(2, sheet.max_row):
+
+# process data in lognonne_2003_catalog.csv
+# replace with file's path in your computor
+m = 0
+sh = 0
+file = open("C:\\Users\Cooki\\Desktop\\nasa_hacker\\dataCollector\\lognonne_2003_catalog.csv")
+reader = csv.reader(file)
+for row in reader:
     data = {}
-    name = 'A' + str(sheet.cell(row=rowNum, column=1).value)
-    data['name'] = name
-    lat = sheet.cell(row=rowNum, column=3).value
-    data['latitude'] = lat
-    long = sheet.cell(row=rowNum, column=5).value
-    data['longtitude'] = long
-    dep = sheet.cell(row=rowNum, column=7).value
-    data['depth'] = dep
-    if (dep):
-        if (dep > 700):
-            typ = 'Deep Moonquake'
-        elif (dep == 0):
+    # skip first line
+    if (reader.line_num != 1):
+        # determine type and name
+        if (row[0] == 'M'):
+            m += 1
+            name = 'M' + str(m)
             typ = 'Meteoroid Impact'
-        else:
+        elif (row[0] == 'SH'):
+            sh += 1
+            name = 'SM' + str(sh)
             typ = 'Shallow Moonquake'
-    else:
-        typ = 'Shallow Moonquake'
-    data['type'] = typ
-    data_list.append(data)
+        elif (row[0][0] == 'A'):
+            name = row[0]
+            typ = 'Deep Moonquake'
+        else:
+            name = row[0]
+            typ = 'Artificial Impact'
+        data['name'] = name
+        data['type'] = typ
+        # determine depth
+        if (row[3]):
+            dep = row[3]
+        else:
+            dep = 0
+        data['depth'] = dep
+        # determine latitude and longtitude
+        lat = row[1]
+        data['latitude'] = lat
+        long = row[2]
+        data['longtitude'] = long
+        # determine time
+        time = {}
+        year = int('19' + row[8][:2])
+        time['Year'] = year
+        month = int(row[8][2:4])
+        time['month'] = month
+        date = int(row[8][4:6])
+        time['date'] = date
+        hour = int(row[8][6:8])
+        time['hr'] = hour
+        minute = int(row[8][8:])
+        time['min'] = minute
+        second = float(row[9])
+        time['sec'] = second
+        data['time'] = time
+        data_list.append(data)
+
+# process data in nakamura_2005_dm_locations.csv
+file = open("C:\\Users\\Cooki\\Desktop\\nasa_hacker\\dataCollector\\nakamura_2005_dm_locations.csv")
+reader = csv.reader(file)
+for row in reader:
+    data = {}
+    if (reader.line_num != 1):
+        name = 'A' + row[0]
+        data['name'] = name
+        lat = row[2]
+        data['latitude'] = lat
+        long = row[4]
+        data['longtitude'] = long
+        dep = row[6]
+        data['depth'] = dep
+        time = None
+        data['time'] = time
+        typ = 'Deep Moonquake'
+        data['type'] = typ
+        data_list.append(data)
+
 with open("moonquake_data", 'w', encoding="utf-8") as file:
     json.dump(data_list, file, ensure_ascii=False, indent=4)
 print("資料已儲存")

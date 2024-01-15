@@ -1,0 +1,44 @@
+Apollo Seismic Data(2020)全data摘要
+https://pds-geosciences.wustl.edu/lunar/urn-nasa-pds-apollo_seismic_event_catalog/data/
+
+-collection_data_inventory.csv
+事件種子碼(不知該如何解碼)
+-gagnepian_2006_catalog.csv(可做)
+有各種事件(M、A、SH、LM、IVB...)共58筆，深度、經緯、日期
+-levent.1008weber.csv
+看不太懂，有這些資訊
+Y(年分)	JD(儒略日?)	S	E	A1	A2	A3	A4	P1
+	P2	P3	P4	Q1	Q2	Q3	Q4	T1
+	N1	T2	N2	Grade	Traces	12LPX	12LPY	12LPZ
+	14SPZ	14LPX	14LPY	14LPZ	15SPZ	15LPX	15LPY	15LPZ
+	16SPZ	16LPX	16LPY	16LPZ
+-lognonne_2003_catalog.csv
+有各種事件(M、A、SH、LM、IVB...)共59筆，深度、經緯、日期、秒數也有(和gagnepian_2006
+_catalog.csv)大致相同但更詳細
+-nakamura_1979_sm_locations.csv
+有年份、第幾日、時分秒、經緯、規模，但沒有編號、深度
+-nakamura_1983_ai_arrivals.csv
+有一些特殊事件
+12 LM
+13 S-IVB
+14 S-IVB
+14 LM
+15 S-IVB
+15 LM
+17 S-IVB
+17 LM
+的疑似時間紀錄，但看不懂
+12P	14P	15P	16P	17P	12D	14D	15D	16D	17D	12T
+14T	15T	16T	17T 的意思
+-nakamura_1983_ai_locations.csv(可做)
+承上的特殊事件，清楚寫著經緯、年分、第幾日、時分秒
+-nakamura_1983_m_arrivals.csv
+紀錄部分震動，有P波S波紀錄(可能)，年分、時間、測站
+-nakamura_1983_sm_arrivals.csv
+同上
+-nakamura_2005_dm_arrivals.csv
+166筆深層地震資訊，P波S波資料，看不懂
+-nakamura_2005_dm_locations.csv(可做)
+106筆深層地震資訊，有紀錄Side(N/F)可能是前後、經緯、深度、看不懂Assumed(N/Y)
+-weber_2011_dmq_s_picks.csv
+部分深層地震的S波資訊，共38筆

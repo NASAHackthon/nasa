@@ -2,9 +2,9 @@
     {
         "name": "12 LM",
         "type": "Artificial Impact",
-        "depth": "0",
-        "latitude": "-3.94",
-        "longtitude": "-21.2",
+        "depth": 0,
+        "latitude": -3.94,
+        "longtitude": -21.2,
         "time": {
             "Year": 1969,
             "month": 11,
@@ -17,9 +17,9 @@
     {
         "name": "13 S-IVB",
         "type": "Artificial Impact",
-        "depth": "0",
-        "latitude": "-2.75",
-        "longtitude": "-27.86",
+        "depth": 0,
+        "latitude": -2.75,
+        "longtitude": -27.86,
         "time": {
             "Year": 1970,
             "month": 4,
@@ -32,9 +32,9 @@
     {
         "name": "14 S-IVB",
         "type": "Artificial Impact",
-        "depth": "0",
-        "latitude": "-8.09",
-        "longtitude": "-26.02",
+        "depth": 0,
+        "latitude": -8.09,
+        "longtitude": -26.02,
         "time": {
             "Year": 1971,
             "month": 2,
@@ -47,9 +47,9 @@
     {
         "name": "14 LM",
         "type": "Artificial Impact",
-        "depth": "0",
-        "latitude": "-3.42",
-        "longtitude": "-19.67",
+        "depth": 0,
+        "latitude": -3.42,
+        "longtitude": -19.67,
         "time": {
             "Year": 1971,
             "month": 2,
@@ -62,9 +62,9 @@
     {
         "name": "15 S-IVB",
         "type": "Artificial Impact",
-        "depth": "0",
-        "latitude": "-1.51",
-        "longtitude": "-11.81",
+        "depth": 0,
+        "latitude": -1.51,
+        "longtitude": -11.81,
         "time": {
             "Year": 1971,
             "month": 7,
@@ -77,9 +77,9 @@
     {
         "name": "15 LM",
         "type": "Artificial Impact",
-        "depth": "0",
-        "latitude": "26.36",
-        "longtitude": "0.25",
+        "depth": 0,
+        "latitude": 26.36,
+        "longtitude": 0.25,
         "time": {
             "Year": 1971,
             "month": 8,
@@ -92,9 +92,9 @@
     {
         "name": "16 S-IVB",
         "type": "Artificial Impact",
-        "depth": "0",
-        "latitude": "1.3",
-        "longtitude": "-23.8",
+        "depth": 0,
+        "latitude": 1.3,
+        "longtitude": -23.8,
         "time": {
             "Year": 1972,
             "month": 4,
@@ -107,9 +107,9 @@
     {
         "name": "17 S-IVB",
         "type": "Artificial Impact",
-        "depth": "0",
-        "latitude": "-4.21",
-        "longtitude": "-12.31",
+        "depth": 0,
+        "latitude": -4.21,
+        "longtitude": -12.31,
         "time": {
             "Year": 1972,
             "month": 12,
@@ -122,9 +122,9 @@
     {
         "name": "M1",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "74.1",
-        "longtitude": "2.6",
+        "depth": 0,
+        "latitude": 74.1,
+        "longtitude": 2.6,
         "time": {
             "Year": 1972,
             "month": 1,
@@ -137,9 +137,9 @@
     {
         "name": "M2",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "1.5",
-        "longtitude": "-17.1",
+        "depth": 0,
+        "latitude": 1.5,
+        "longtitude": -17.1,
         "time": {
             "Year": 1972,
             "month": 5,
@@ -152,9 +152,9 @@
     {
         "name": "M3",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "32.8",
-        "longtitude": "137.6",
+        "depth": 0,
+        "latitude": 32.8,
+        "longtitude": 137.6,
         "time": {
             "Year": 1972,
             "month": 7,
@@ -167,9 +167,9 @@
     {
         "name": "M4",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "24",
-        "longtitude": "10.1",
+        "depth": 0,
+        "latitude": 24.0,
+        "longtitude": 10.1,
         "time": {
             "Year": 1972,
             "month": 7,
@@ -182,9 +182,9 @@
     {
         "name": "M5",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "15.8",
-        "longtitude": "22.9",
+        "depth": 0,
+        "latitude": 15.8,
+        "longtitude": 22.9,
         "time": {
             "Year": 1972,
             "month": 8,
@@ -197,9 +197,9 @@
     {
         "name": "M6",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "28.7",
-        "longtitude": "41.1",
+        "depth": 0,
+        "latitude": 28.7,
+        "longtitude": 41.1,
         "time": {
             "Year": 1973,
             "month": 9,
@@ -212,9 +212,9 @@
     {
         "name": "M7",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "-24.8",
-        "longtitude": "-25.1",
+        "depth": 0,
+        "latitude": -24.8,
+        "longtitude": -25.1,
         "time": {
             "Year": 1973,
             "month": 12,
@@ -227,9 +227,9 @@
     {
         "name": "M8",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "7.4",
-        "longtitude": "-33.6",
+        "depth": 0,
+        "latitude": 7.4,
+        "longtitude": -33.6,
         "time": {
             "Year": 1974,
             "month": 4,
@@ -242,9 +242,9 @@
     {
         "name": "M9",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "20.3",
-        "longtitude": "6.5",
+        "depth": 0,
+        "latitude": 20.3,
+        "longtitude": 6.5,
         "time": {
             "Year": 1974,
             "month": 7,
@@ -257,9 +257,9 @@
     {
         "name": "M10",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "-7.3",
-        "longtitude": "19.9",
+        "depth": 0,
+        "latitude": -7.3,
+        "longtitude": 19.9,
         "time": {
             "Year": 1974,
             "month": 11,
@@ -272,9 +272,9 @@
     {
         "name": "M11",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "1.6",
-        "longtitude": "-8.2",
+        "depth": 0,
+        "latitude": 1.6,
+        "longtitude": -8.2,
         "time": {
             "Year": 1974,
             "month": 12,
@@ -287,9 +287,9 @@
     {
         "name": "M12",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "-52.4",
-        "longtitude": "4.2",
+        "depth": 0,
+        "latitude": -52.4,
+        "longtitude": 4.2,
         "time": {
             "Year": 1975,
             "month": 3,
@@ -302,9 +302,9 @@
     {
         "name": "M13",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "2",
-        "longtitude": "43.2",
+        "depth": 0,
+        "latitude": 2.0,
+        "longtitude": 43.2,
         "time": {
             "Year": 1975,
             "month": 4,
@@ -317,9 +317,9 @@
     {
         "name": "M14",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "-36.4",
-        "longtitude": "-121.3",
+        "depth": 0,
+        "latitude": -36.4,
+        "longtitude": -121.3,
         "time": {
             "Year": 1975,
             "month": 5,
@@ -332,9 +332,9 @@
     {
         "name": "M15",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "-39.4",
-        "longtitude": "62.8",
+        "depth": 0,
+        "latitude": -39.4,
+        "longtitude": 62.8,
         "time": {
             "Year": 1976,
             "month": 1,
@@ -347,9 +347,9 @@
     {
         "name": "M16",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "-16.8",
-        "longtitude": "-10",
+        "depth": 0,
+        "latitude": -16.8,
+        "longtitude": -10.0,
         "time": {
             "Year": 1976,
             "month": 5,
@@ -362,9 +362,9 @@
     {
         "name": "M17",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "23.8",
-        "longtitude": "-73.9",
+        "depth": 0,
+        "latitude": 23.8,
+        "longtitude": -73.9,
         "time": {
             "Year": 1976,
             "month": 11,
@@ -377,9 +377,9 @@
     {
         "name": "M18",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "-20.5",
-        "longtitude": "-63.8",
+        "depth": 0,
+        "latitude": -20.5,
+        "longtitude": -63.8,
         "time": {
             "Year": 1977,
             "month": 4,
@@ -392,9 +392,9 @@
     {
         "name": "M19",
         "type": "Meteoroid Impact",
-        "depth": "0",
-        "latitude": "-13.5",
-        "longtitude": "-75.3",
+        "depth": 0,
+        "latitude": -13.5,
+        "longtitude": -75.3,
         "time": {
             "Year": 1977,
             "month": 6,
@@ -408,8 +408,8 @@
         "name": "SM1",
         "type": "Shallow Moonquake",
         "depth": 0,
-        "latitude": "12.8",
-        "longtitude": "51",
+        "latitude": 12.8,
+        "longtitude": 51.0,
         "time": {
             "Year": 1972,
             "month": 9,
@@ -422,9 +422,9 @@
     {
         "name": "SM2",
         "type": "Shallow Moonquake",
-        "depth": "10",
-        "latitude": "48",
-        "longtitude": "38.2",
+        "depth": 10,
+        "latitude": 48.0,
+        "longtitude": 38.2,
         "time": {
             "Year": 1972,
             "month": 12,
@@ -437,9 +437,9 @@
     {
         "name": "SM3",
         "type": "Shallow Moonquake",
-        "depth": "2",
-        "latitude": "21.9",
-        "longtitude": "82.6",
+        "depth": 2,
+        "latitude": 21.9,
+        "longtitude": 82.6,
         "time": {
             "Year": 1974,
             "month": 7,
@@ -452,9 +452,9 @@
     {
         "name": "SM4",
         "type": "Shallow Moonquake",
-        "depth": "0",
-        "latitude": "26.1",
-        "longtitude": "-92.7",
+        "depth": 0,
+        "latitude": 26.1,
+        "longtitude": -92.7,
         "time": {
             "Year": 1975,
             "month": 1,
@@ -467,9 +467,9 @@
     {
         "name": "SM5",
         "type": "Shallow Moonquake",
-        "depth": "0",
-        "latitude": "64.1",
-        "longtitude": "59.9",
+        "depth": 0,
+        "latitude": 64.1,
+        "longtitude": 59.9,
         "time": {
             "Year": 1975,
             "month": 1,
@@ -482,9 +482,9 @@
     {
         "name": "SM6",
         "type": "Shallow Moonquake",
-        "depth": "21",
-        "latitude": "-17",
-        "longtitude": "-26.1",
+        "depth": 21,
+        "latitude": -17.0,
+        "longtitude": -26.1,
         "time": {
             "Year": 1975,
             "month": 2,
@@ -497,9 +497,9 @@
     {
         "name": "SM7",
         "type": "Shallow Moonquake",
-        "depth": "125",
-        "latitude": "44.1",
-        "longtitude": "34",
+        "depth": 125,
+        "latitude": 44.1,
+        "longtitude": 34.0,
         "time": {
             "Year": 1976,
             "month": 1,
@@ -512,9 +512,9 @@
     {
         "name": "SM8",
         "type": "Shallow Moonquake",
-        "depth": "185",
-        "latitude": "52.5",
-        "longtitude": "-25.8",
+        "depth": 185,
+        "latitude": 52.5,
+        "longtitude": -25.8,
         "time": {
             "Year": 1976,
             "month": 3,
@@ -527,9 +527,9 @@
     {
         "name": "A01",
         "type": "Deep Moonquake",
-        "depth": "917",
-        "latitude": "-17.4",
-        "longtitude": "-38.4",
+        "depth": 917,
+        "latitude": -17.4,
+        "longtitude": -38.4,
         "time": {
             "Year": 1973,
             "month": 9,
@@ -542,9 +542,9 @@
     {
         "name": "A06",
         "type": "Deep Moonquake",
-        "depth": "860",
-        "latitude": "49.7",
-        "longtitude": "54.7",
+        "depth": 860,
+        "latitude": 49.7,
+        "longtitude": 54.7,
         "time": {
             "Year": 1976,
             "month": 7,
@@ -557,9 +557,9 @@
     {
         "name": "A07",
         "type": "Deep Moonquake",
-        "depth": "900",
-        "latitude": "24",
-        "longtitude": "53.7",
+        "depth": 900,
+        "latitude": 24.0,
+        "longtitude": 53.7,
         "time": {
             "Year": 1976,
             "month": 7,
@@ -572,9 +572,9 @@
     {
         "name": "A08",
         "type": "Deep Moonquake",
-        "depth": "940",
-        "latitude": "-28",
-        "longtitude": "-28.1",
+        "depth": 940,
+        "latitude": -28.0,
+        "longtitude": -28.1,
         "time": {
             "Year": 1977,
             "month": 5,
@@ -587,9 +587,9 @@
     {
         "name": "A09",
         "type": "Deep Moonquake",
-        "depth": "975",
-        "latitude": "-37.8",
-        "longtitude": "-30.8",
+        "depth": 975,
+        "latitude": -37.8,
+        "longtitude": -30.8,
         "time": {
             "Year": 1977,
             "month": 4,
@@ -602,9 +602,9 @@
     {
         "name": "A11",
         "type": "Deep Moonquake",
-        "depth": "1200",
-        "latitude": "9.3",
-        "longtitude": "17.5",
+        "depth": 1200,
+        "latitude": 9.3,
+        "longtitude": 17.5,
         "time": {
             "Year": 1977,
             "month": 6,
@@ -617,9 +617,9 @@
     {
         "name": "A14",
         "type": "Deep Moonquake",
-        "depth": "880",
-        "latitude": "-28.7",
-        "longtitude": "-33.9",
+        "depth": 880,
+        "latitude": -28.7,
+        "longtitude": -33.9,
         "time": {
             "Year": 1973,
             "month": 5,
@@ -632,9 +632,9 @@
     {
         "name": "A16",
         "type": "Deep Moonquake",
-        "depth": "1105",
-        "latitude": "6.8",
-        "longtitude": "5.1",
+        "depth": 1105,
+        "latitude": 6.8,
+        "longtitude": 5.1,
         "time": {
             "Year": 1972,
             "month": 10,
@@ -647,9 +647,9 @@
     {
         "name": "A17",
         "type": "Deep Moonquake",
-        "depth": "861",
-        "latitude": "23.1",
-        "longtitude": "-18",
+        "depth": 861,
+        "latitude": 23.1,
+        "longtitude": -18.0,
         "time": {
             "Year": 1972,
             "month": 11,
@@ -662,9 +662,9 @@
     {
         "name": "A18",
         "type": "Deep Moonquake",
-        "depth": "882",
-        "latitude": "18.6",
-        "longtitude": "34.7",
+        "depth": 882,
+        "latitude": 18.6,
+        "longtitude": 34.7,
         "time": {
             "Year": 1973,
             "month": 1,
@@ -677,9 +677,9 @@
     {
         "name": "A20",
         "type": "Deep Moonquake",
-        "depth": "1055",
-        "latitude": "21.7",
-        "longtitude": "-41",
+        "depth": 1055,
+        "latitude": 21.7,
+        "longtitude": -41.0,
         "time": {
             "Year": 1972,
             "month": 5,
@@ -692,9 +692,9 @@
     {
         "name": "A24",
         "type": "Deep Moonquake",
-        "depth": "980",
-        "latitude": "-36.8",
-        "longtitude": "-38.9",
+        "depth": 980,
+        "latitude": -36.8,
+        "longtitude": -38.9,
         "time": {
             "Year": 1977,
             "month": 6,
@@ -707,9 +707,9 @@
     {
         "name": "A25",
         "type": "Deep Moonquake",
-        "depth": "898",
-        "latitude": "34.4",
-        "longtitude": "59.3",
+        "depth": 898,
+        "latitude": 34.4,
+        "longtitude": 59.3,
         "time": {
             "Year": 1977,
             "month": 6,
@@ -722,9 +722,9 @@
     {
         "name": "A27",
         "type": "Deep Moonquake",
-        "depth": "1059",
-        "latitude": "22.5",
-        "longtitude": "18.5",
+        "depth": 1059,
+        "latitude": 22.5,
+        "longtitude": 18.5,
         "time": {
             "Year": 1977,
             "month": 5,
@@ -737,9 +737,9 @@
     {
         "name": "A30",
         "type": "Deep Moonquake",
-        "depth": "921",
-        "latitude": "11.8",
-        "longtitude": "-34.3",
+        "depth": 921,
+        "latitude": 11.8,
+        "longtitude": -34.3,
         "time": {
             "Year": 1972,
             "month": 5,
@@ -752,9 +752,9 @@
     {
         "name": "A33",
         "type": "Deep Moonquake",
-        "depth": "887",
-        "latitude": "6.9",
-        "longtitude": "117.8",
+        "depth": 887,
+        "latitude": 6.9,
+        "longtitude": 117.8,
         "time": {
             "Year": 1972,
             "month": 10,
@@ -767,9 +767,9 @@
     {
         "name": "A34",
         "type": "Deep Moonquake",
-        "depth": "932",
-        "latitude": "7",
-        "longtitude": "-9.3",
+        "depth": 932,
+        "latitude": 7.0,
+        "longtitude": -9.3,
         "time": {
             "Year": 1972,
             "month": 6,
@@ -782,9 +782,9 @@
     {
         "name": "A40",
         "type": "Deep Moonquake",
-        "depth": "886",
-        "latitude": "-1.6",
-        "longtitude": "-10.9",
+        "depth": 886,
+        "latitude": -1.6,
+        "longtitude": -10.9,
         "time": {
             "Year": 1973,
             "month": 6,
@@ -797,9 +797,9 @@
     {
         "name": "A41",
         "type": "Deep Moonquake",
-        "depth": "953",
-        "latitude": "13.9",
-        "longtitude": "-26.8",
+        "depth": 953,
+        "latitude": 13.9,
+        "longtitude": -26.8,
         "time": {
             "Year": 1972,
             "month": 6,
@@ -812,9 +812,9 @@
     {
         "name": "A42",
         "type": "Deep Moonquake",
-        "depth": "1004",
-        "latitude": "22.7",
-        "longtitude": "-53.5",
+        "depth": 1004,
+        "latitude": 22.7,
+        "longtitude": -53.5,
         "time": {
             "Year": 1973,
             "month": 5,
@@ -827,9 +827,9 @@
     {
         "name": "A44",
         "type": "Deep Moonquake",
-        "depth": "956",
-        "latitude": "51.9",
-        "longtitude": "57.1",
+        "depth": 956,
+        "latitude": 51.9,
+        "longtitude": 57.1,
         "time": {
             "Year": 1974,
             "month": 5,
@@ -842,9 +842,9 @@
     {
         "name": "A50",
         "type": "Deep Moonquake",
-        "depth": "835",
-        "latitude": "9.4",
-        "longtitude": "-51.6",
+        "depth": 835,
+        "latitude": 9.4,
+        "longtitude": -51.6,
         "time": {
             "Year": 1973,
             "month": 4,
@@ -857,9 +857,9 @@
     {
         "name": "A51",
         "type": "Deep Moonquake",
-        "depth": "888",
-        "latitude": "8.8",
-        "longtitude": "15.7",
+        "depth": 888,
+        "latitude": 8.8,
+        "longtitude": 15.7,
         "time": {
             "Year": 1974,
             "month": 2,
@@ -872,9 +872,9 @@
     {
         "name": "A97",
         "type": "Deep Moonquake",
-        "depth": "1000",
-        "latitude": "-3.4",
-        "longtitude": "18.7",
+        "depth": 1000,
+        "latitude": -3.4,
+        "longtitude": 18.7,
         "time": {
             "Year": 1977,
             "month": 5,
@@ -886,849 +886,849 @@
     },
     {
         "name": "A1",
-        "latitude": "-15.7",
-        "longtitude": "-36.6",
-        "depth": "867",
+        "latitude": -15.7,
+        "longtitude": -36.6,
+        "depth": 867,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A3",
-        "latitude": "-2.9",
-        "longtitude": "-50.3",
-        "depth": "946",
+        "latitude": -2.9,
+        "longtitude": -50.3,
+        "depth": 946,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A5",
-        "latitude": "1.1",
-        "longtitude": "-44.7",
-        "depth": "933",
+        "latitude": 1.1,
+        "longtitude": -44.7,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A6",
-        "latitude": "43.5",
-        "longtitude": "55.5",
-        "depth": "844",
+        "latitude": 43.5,
+        "longtitude": 55.5,
+        "depth": 844,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A7",
-        "latitude": "25",
-        "longtitude": "53.2",
-        "depth": "893",
+        "latitude": 25.0,
+        "longtitude": 53.2,
+        "depth": 893,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A8",
-        "latitude": "-23.7",
-        "longtitude": "-35.5",
-        "depth": "1086",
+        "latitude": -23.7,
+        "longtitude": -35.5,
+        "depth": 1086,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A9",
-        "latitude": "-6",
-        "longtitude": "-19.7",
-        "depth": "1037",
+        "latitude": -6.0,
+        "longtitude": -19.7,
+        "depth": 1037,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A10",
-        "latitude": "-35.7",
-        "longtitude": "-40.3",
-        "depth": "988",
+        "latitude": -35.7,
+        "longtitude": -40.3,
+        "depth": 988,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A11",
-        "latitude": "9.2",
-        "longtitude": "17.5",
-        "depth": "1187",
+        "latitude": 9.2,
+        "longtitude": 17.5,
+        "depth": 1187,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A13",
-        "latitude": "-19.1",
-        "longtitude": "-41.7",
-        "depth": "973",
+        "latitude": -19.1,
+        "longtitude": -41.7,
+        "depth": 973,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A14",
-        "latitude": "-29.6",
-        "longtitude": "-44.4",
-        "depth": "933",
+        "latitude": -29.6,
+        "longtitude": -44.4,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A15",
-        "latitude": "0.7",
-        "longtitude": "-3.9",
-        "depth": "747",
+        "latitude": 0.7,
+        "longtitude": -3.9,
+        "depth": 747,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A16",
-        "latitude": "7.5",
-        "longtitude": "6.3",
-        "depth": "1019",
+        "latitude": 7.5,
+        "longtitude": 6.3,
+        "depth": 1019,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A17",
-        "latitude": "25.5",
-        "longtitude": "-21.9",
-        "depth": "807",
+        "latitude": 25.5,
+        "longtitude": -21.9,
+        "depth": 807,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A18",
-        "latitude": "23.3",
-        "longtitude": "32.7",
-        "depth": "925",
+        "latitude": 23.3,
+        "longtitude": 32.7,
+        "depth": 925,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A19",
-        "latitude": "27.7",
-        "longtitude": "34.4",
-        "depth": "974",
+        "latitude": 27.7,
+        "longtitude": 34.4,
+        "depth": 974,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A20",
-        "latitude": "23.7",
-        "longtitude": "-31.4",
-        "depth": "945",
+        "latitude": 23.7,
+        "longtitude": -31.4,
+        "depth": 945,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A21",
-        "latitude": "-18.2",
-        "longtitude": "-50.8",
-        "depth": "1037",
+        "latitude": -18.2,
+        "longtitude": -50.8,
+        "depth": 1037,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A22",
-        "latitude": "21.6",
-        "longtitude": "43.6",
-        "depth": "788",
+        "latitude": 21.6,
+        "longtitude": 43.6,
+        "depth": 788,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A25",
-        "latitude": "35.1",
-        "longtitude": "59.8",
-        "depth": "924",
+        "latitude": 35.1,
+        "longtitude": 59.8,
+        "depth": 924,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A26",
-        "latitude": "14.3",
-        "longtitude": "5.2",
-        "depth": "1122",
+        "latitude": 14.3,
+        "longtitude": 5.2,
+        "depth": 1122,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A27",
-        "latitude": "23",
-        "longtitude": "20.4",
-        "depth": "1085",
+        "latitude": 23.0,
+        "longtitude": 20.4,
+        "depth": 1085,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A28",
-        "latitude": "8.1",
-        "longtitude": "10.3",
-        "depth": "933",
+        "latitude": 8.1,
+        "longtitude": 10.3,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A29",
-        "latitude": "53.4",
-        "longtitude": "60.9",
-        "depth": "1077",
+        "latitude": 53.4,
+        "longtitude": 60.9,
+        "depth": 1077,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A30",
-        "latitude": "12.7",
-        "longtitude": "-35.7",
-        "depth": "931",
+        "latitude": 12.7,
+        "longtitude": -35.7,
+        "depth": 931,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A32",
-        "latitude": "25",
-        "longtitude": "43.6",
-        "depth": "944",
+        "latitude": 25.0,
+        "longtitude": 43.6,
+        "depth": 944,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A33",
-        "latitude": "5.1",
-        "longtitude": "115.8",
-        "depth": "877",
+        "latitude": 5.1,
+        "longtitude": 115.8,
+        "depth": 877,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A34",
-        "latitude": "6.8",
-        "longtitude": "-7.2",
-        "depth": "971",
+        "latitude": 6.8,
+        "longtitude": -7.2,
+        "depth": 971,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A35",
-        "latitude": "5",
-        "longtitude": "36.1",
-        "depth": "933",
+        "latitude": 5.0,
+        "longtitude": 36.1,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A36",
-        "latitude": "27.5",
-        "longtitude": "-4.6",
-        "depth": "1058",
+        "latitude": 27.5,
+        "longtitude": -4.6,
+        "depth": 1058,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A37",
-        "latitude": "22.5",
-        "longtitude": "29.7",
-        "depth": "1343",
+        "latitude": 22.5,
+        "longtitude": 29.7,
+        "depth": 1343,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A38",
-        "latitude": "7.8",
-        "longtitude": "43.3",
-        "depth": "1031",
+        "latitude": 7.8,
+        "longtitude": 43.3,
+        "depth": 1031,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A39",
-        "latitude": "-21.9",
-        "longtitude": "-12.7",
-        "depth": "933",
+        "latitude": -21.9,
+        "longtitude": -12.7,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A40",
-        "latitude": "-1.3",
-        "longtitude": "-10.3",
-        "depth": "867",
+        "latitude": -1.3,
+        "longtitude": -10.3,
+        "depth": 867,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A41",
-        "latitude": "13.8",
-        "longtitude": "-29.2",
-        "depth": "847",
+        "latitude": 13.8,
+        "longtitude": -29.2,
+        "depth": 847,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A42",
-        "latitude": "22.2",
-        "longtitude": "-50.7",
-        "depth": "907",
+        "latitude": 22.2,
+        "longtitude": -50.7,
+        "depth": 907,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A44",
-        "latitude": "50.2",
-        "longtitude": "60.2",
-        "depth": "908",
+        "latitude": 50.2,
+        "longtitude": 60.2,
+        "depth": 908,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A49",
-        "latitude": "8.6",
-        "longtitude": "-50.8",
-        "depth": "952",
+        "latitude": 8.6,
+        "longtitude": -50.8,
+        "depth": 952,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A50",
-        "latitude": "8.7",
-        "longtitude": "-53.4",
-        "depth": "828",
+        "latitude": 8.7,
+        "longtitude": -53.4,
+        "depth": 828,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A51",
-        "latitude": "12.3",
-        "longtitude": "37.7",
-        "depth": "1125",
+        "latitude": 12.3,
+        "longtitude": 37.7,
+        "depth": 1125,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A53",
-        "latitude": "-10.1",
-        "longtitude": "-39.2",
-        "depth": "933",
+        "latitude": -10.1,
+        "longtitude": -39.2,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A54",
-        "latitude": "13.1",
-        "longtitude": "-52.4",
-        "depth": "933",
+        "latitude": 13.1,
+        "longtitude": -52.4,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A56",
-        "latitude": "1.1",
-        "longtitude": "-20.6",
-        "depth": "933",
+        "latitude": 1.1,
+        "longtitude": -20.6,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A59",
-        "latitude": "-9.5",
-        "longtitude": "-53.6",
-        "depth": "750",
+        "latitude": -9.5,
+        "longtitude": -53.6,
+        "depth": 750,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A60",
-        "latitude": "24.1",
-        "longtitude": "-52.2",
-        "depth": "750",
+        "latitude": 24.1,
+        "longtitude": -52.2,
+        "depth": 750,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A64",
-        "latitude": "30.1",
-        "longtitude": "53.2",
-        "depth": "975",
+        "latitude": 30.1,
+        "longtitude": 53.2,
+        "depth": 975,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A65",
-        "latitude": "46.6",
-        "longtitude": "42.3",
-        "depth": "861",
+        "latitude": 46.6,
+        "longtitude": 42.3,
+        "depth": 861,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A70",
-        "latitude": "34.8",
-        "longtitude": "63",
-        "depth": "1014",
+        "latitude": 34.8,
+        "longtitude": 63.0,
+        "depth": 1014,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A71",
-        "latitude": "-20.9",
-        "longtitude": "-16.8",
-        "depth": "933",
+        "latitude": -20.9,
+        "longtitude": -16.8,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A73",
-        "latitude": "21.1",
-        "longtitude": "-44",
-        "depth": "908",
+        "latitude": 21.1,
+        "longtitude": -44.0,
+        "depth": 908,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A74",
-        "latitude": "34.7",
-        "longtitude": "60.1",
-        "depth": "1043",
+        "latitude": 34.7,
+        "longtitude": 60.1,
+        "depth": 1043,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A77",
-        "latitude": "24.6",
-        "longtitude": "-23.4",
-        "depth": "1419",
+        "latitude": 24.6,
+        "longtitude": -23.4,
+        "depth": 1419,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A82",
-        "latitude": "27.5",
-        "longtitude": "34.3",
-        "depth": "919",
+        "latitude": 27.5,
+        "longtitude": 34.3,
+        "depth": 919,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A86",
-        "latitude": "-40.9",
-        "longtitude": "-40.6",
-        "depth": "933",
+        "latitude": -40.9,
+        "longtitude": -40.6,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A96",
-        "latitude": "6.2",
-        "longtitude": "11.9",
-        "depth": "794",
+        "latitude": 6.2,
+        "longtitude": 11.9,
+        "depth": 794,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A97",
-        "latitude": "-8.4",
-        "longtitude": "17.9",
-        "depth": "989",
+        "latitude": -8.4,
+        "longtitude": 17.9,
+        "depth": 989,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A99",
-        "latitude": "10",
-        "longtitude": "22.8",
-        "depth": "989",
+        "latitude": 10.0,
+        "longtitude": 22.8,
+        "depth": 989,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A100",
-        "latitude": "-2",
-        "longtitude": "32.2",
-        "depth": "920",
+        "latitude": -2.0,
+        "longtitude": 32.2,
+        "depth": 920,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A107",
-        "latitude": "41",
-        "longtitude": "53.4",
-        "depth": "893",
+        "latitude": 41.0,
+        "longtitude": 53.4,
+        "depth": 893,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A114",
-        "latitude": "15.5",
-        "longtitude": "55.6",
-        "depth": "755",
+        "latitude": 15.5,
+        "longtitude": 55.6,
+        "depth": 755,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A201",
-        "latitude": "-40.6",
-        "longtitude": "-3.8",
-        "depth": "862",
+        "latitude": -40.6,
+        "longtitude": -3.8,
+        "depth": 862,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A202",
-        "latitude": "1",
-        "longtitude": "2.8",
-        "depth": "919",
+        "latitude": 1.0,
+        "longtitude": 2.8,
+        "depth": 919,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A203",
-        "latitude": "0.5",
-        "longtitude": "47.3",
-        "depth": "1243",
+        "latitude": 0.5,
+        "longtitude": 47.3,
+        "depth": 1243,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A204",
-        "latitude": "-28.4",
-        "longtitude": "-66.6",
-        "depth": "933",
+        "latitude": -28.4,
+        "longtitude": -66.6,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A209",
-        "latitude": "-26.5",
-        "longtitude": "-35.1",
-        "depth": "933",
+        "latitude": -26.5,
+        "longtitude": -35.1,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A212",
-        "latitude": "12.8",
-        "longtitude": "-36.2",
-        "depth": "963",
+        "latitude": 12.8,
+        "longtitude": -36.2,
+        "depth": 963,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A216",
-        "latitude": "-13.7",
-        "longtitude": "-21.6",
-        "depth": "764",
+        "latitude": -13.7,
+        "longtitude": -21.6,
+        "depth": 764,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A218",
-        "latitude": "-2.4",
-        "longtitude": "-73.3",
-        "depth": "878",
+        "latitude": -2.4,
+        "longtitude": -73.3,
+        "depth": 878,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A223",
-        "latitude": "36.1",
-        "longtitude": "-2.4",
-        "depth": "863",
+        "latitude": 36.1,
+        "longtitude": -2.4,
+        "depth": 863,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A224",
-        "latitude": "-50.7",
-        "longtitude": "-21.4",
-        "depth": "933",
+        "latitude": -50.7,
+        "longtitude": -21.4,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A230",
-        "latitude": "6.3",
-        "longtitude": "22.1",
-        "depth": "855",
+        "latitude": 6.3,
+        "longtitude": 22.1,
+        "depth": 855,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A231",
-        "latitude": "34.3",
-        "longtitude": "45",
-        "depth": "933",
+        "latitude": 34.3,
+        "longtitude": 45.0,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A233",
-        "latitude": "24.1",
-        "longtitude": "26.1",
-        "depth": "933",
+        "latitude": 24.1,
+        "longtitude": 26.1,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A234",
-        "latitude": "36.8",
-        "longtitude": "21.2",
-        "depth": "1006",
+        "latitude": 36.8,
+        "longtitude": 21.2,
+        "depth": 1006,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A236",
-        "latitude": "-7.8",
-        "longtitude": "5.4",
-        "depth": "933",
+        "latitude": -7.8,
+        "longtitude": 5.4,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A237",
-        "latitude": "12.2",
-        "longtitude": "3.5",
-        "depth": "933",
+        "latitude": 12.2,
+        "longtitude": 3.5,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A238",
-        "latitude": "26.3",
-        "longtitude": "20",
-        "depth": "831",
+        "latitude": 26.3,
+        "longtitude": 20.0,
+        "depth": 831,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A239",
-        "latitude": "26.7",
-        "longtitude": "5.2",
-        "depth": "933",
+        "latitude": 26.7,
+        "longtitude": 5.2,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A241",
-        "latitude": "-69.4",
-        "longtitude": "75.4",
-        "depth": "933",
+        "latitude": -69.4,
+        "longtitude": 75.4,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A242",
-        "latitude": "58.6",
-        "longtitude": "54.2",
-        "depth": "1025",
+        "latitude": 58.6,
+        "longtitude": 54.2,
+        "depth": 1025,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A243",
-        "latitude": "7",
-        "longtitude": "8.3",
-        "depth": "1019",
+        "latitude": 7.0,
+        "longtitude": 8.3,
+        "depth": 1019,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A244",
-        "latitude": "34.6",
-        "longtitude": "56.1",
-        "depth": "933",
+        "latitude": 34.6,
+        "longtitude": 56.1,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A245",
-        "latitude": "8.6",
-        "longtitude": "73",
-        "depth": "933",
+        "latitude": 8.6,
+        "longtitude": 73.0,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A246",
-        "latitude": "19.4",
-        "longtitude": "24.3",
-        "depth": "959",
+        "latitude": 19.4,
+        "longtitude": 24.3,
+        "depth": 959,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A248",
-        "latitude": "5.3",
-        "longtitude": "3.6",
-        "depth": "933",
+        "latitude": 5.3,
+        "longtitude": 3.6,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A249",
-        "latitude": "-3.4",
-        "longtitude": "12.5",
-        "depth": "933",
+        "latitude": -3.4,
+        "longtitude": 12.5,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A250",
-        "latitude": "-3.6",
-        "longtitude": "21.5",
-        "depth": "933",
+        "latitude": -3.6,
+        "longtitude": 21.5,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A251",
-        "latitude": "-46.5",
-        "longtitude": "38.9",
-        "depth": "933",
+        "latitude": -46.5,
+        "longtitude": 38.9,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A255",
-        "latitude": "1.4",
-        "longtitude": "15",
-        "depth": "933",
+        "latitude": 1.4,
+        "longtitude": 15.0,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A257",
-        "latitude": "35",
-        "longtitude": "19.1",
-        "depth": "1063",
+        "latitude": 35.0,
+        "longtitude": 19.1,
+        "depth": 1063,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A258",
-        "latitude": "-7.1",
-        "longtitude": "15.3",
-        "depth": "933",
+        "latitude": -7.1,
+        "longtitude": 15.3,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A259",
-        "latitude": "3.4",
-        "longtitude": "2",
-        "depth": "559",
+        "latitude": 3.4,
+        "longtitude": 2.0,
+        "depth": 559,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A260",
-        "latitude": "-1.7",
-        "longtitude": "18",
-        "depth": "933",
+        "latitude": -1.7,
+        "longtitude": 18.0,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A267",
-        "latitude": "-7.6",
-        "longtitude": "36.7",
-        "depth": "933",
+        "latitude": -7.6,
+        "longtitude": 36.7,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A271",
-        "latitude": "53.8",
-        "longtitude": "35.2",
-        "depth": "933",
+        "latitude": 53.8,
+        "longtitude": 35.2,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A272",
-        "latitude": "-50",
-        "longtitude": "53.2",
-        "depth": "933",
+        "latitude": -50.0,
+        "longtitude": 53.2,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A276",
-        "latitude": "-3.7",
-        "longtitude": "-33.9",
-        "depth": "933",
+        "latitude": -3.7,
+        "longtitude": -33.9,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A279",
-        "latitude": "4.4",
-        "longtitude": "-4.7",
-        "depth": "933",
+        "latitude": 4.4,
+        "longtitude": -4.7,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A280",
-        "latitude": "2.4",
-        "longtitude": "46.1",
-        "depth": "933",
+        "latitude": 2.4,
+        "longtitude": 46.1,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A281",
-        "latitude": "-53.2",
-        "longtitude": "-54.4",
-        "depth": "933",
+        "latitude": -53.2,
+        "longtitude": -54.4,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A282",
-        "latitude": "15.5",
-        "longtitude": "97",
-        "depth": "1141",
+        "latitude": 15.5,
+        "longtitude": 97.0,
+        "depth": 1141,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A283",
-        "latitude": "7.1",
-        "longtitude": "22.5",
-        "depth": "984",
+        "latitude": 7.1,
+        "longtitude": 22.5,
+        "depth": 984,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A285",
-        "latitude": "42.9",
-        "longtitude": "110.9",
-        "depth": "933",
+        "latitude": 42.9,
+        "longtitude": 110.9,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A286",
-        "latitude": "54.2",
-        "longtitude": "56.5",
-        "depth": "933",
+        "latitude": 54.2,
+        "longtitude": 56.5,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A287",
-        "latitude": "24.8",
-        "longtitude": "35.7",
-        "depth": "933",
+        "latitude": 24.8,
+        "longtitude": 35.7,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     },
     {
         "name": "A290",
-        "latitude": "10.6",
-        "longtitude": "6.4",
-        "depth": "933",
+        "latitude": 10.6,
+        "longtitude": 6.4,
+        "depth": 933,
         "time": null,
         "type": "Deep Moonquake"
     }

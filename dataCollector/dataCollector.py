@@ -35,14 +35,14 @@ for row in reader:
         data['type'] = typ
         # determine depth
         if (row[3]):
-            dep = row[3]
+            dep = int(row[3])
         else:
             dep = 0
         data['depth'] = dep
         # determine latitude and longtitude
-        lat = row[1]
+        lat = float(row[1])
         data['latitude'] = lat
-        long = row[2]
+        long = float(row[2])
         data['longtitude'] = long
         # determine time
         time = {}
@@ -69,11 +69,11 @@ for row in reader:
     if (reader.line_num != 1):
         name = 'A' + row[0]
         data['name'] = name
-        lat = row[2]
+        lat = float(row[2])
         data['latitude'] = lat
-        long = row[4]
+        long = float(row[4])
         data['longtitude'] = long
-        dep = row[6]
+        dep = int(row[6])
         data['depth'] = dep
         time = None
         data['time'] = time

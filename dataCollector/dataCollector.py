@@ -46,19 +46,21 @@ for row in reader:
         data['longtitude'] = long
         # determine time
         time = {}
-        year = int('19' + row[8][:2])
-        time['Year'] = year
-        month = int(row[8][2:4])
-        time['month'] = month
-        date = int(row[8][4:6])
-        time['date'] = date
-        hour = int(row[8][6:8])
-        time['hr'] = hour
-        minute = int(row[8][8:])
-        time['min'] = minute
-        second = float(row[9])
-        time['sec'] = second
+        year = '19' + row[8][:2]
+        time['Year'] = int(year)
+        month = row[8][2:4]
+        time['month'] = int(month)
+        date = row[8][4:6]
+        time['date'] = int(date)
+        hour = row[8][6:8]
+        time['hr'] = int(hour)
+        minute = row[8][8:]
+        time['min'] = int(minute)
+        second = row[9]
+        time['sec'] = float(second)
         data['time'] = time
+        time_cmp = year + month + date + hour + minute + hour + minute + second
+        data['time_cmp'] = time_cmp
         data_list.append(data)
 
 # process data in nakamura_2005_dm_locations.csv

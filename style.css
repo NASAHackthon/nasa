@@ -1,0 +1,46 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+header {
+    background-color: #23293a;
+    font-family: Arial, sans-serif;
+    padding: 18px;
+    padding-left: 20px;
+    display: flex;
+    align-items: left;
+}
+
+#logo {
+    font-size: 24px;
+    color: #a9d6e4; 
+    font-weight: bold; 
+    margin-right: 40px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+button {
+    background-color: transparent;
+    color: rgba(255, 255, 255, 0.8);
+    border: none;
+    border-radius: 5px;
+    width: 65px;
+
+    font-size: 15px;
+    padding: 8px;
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #dddddd41;
+}
+
+#map {
+    width: 100%;
+    height: calc(100% - 36px); 
+    border: none;
+}

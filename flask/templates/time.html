@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form - Submit</title>
+</head>
+<body>
+    <h2>Set time span</h2>
+    <form action="/submit" method="post">
+        <h3>Enter upper limit:</h3>
+        <p>
+            Year: <input type="text" name="Myear" id="Myear" />
+            Month: <input type="text" name="Mmon" id="Mmon" />
+            Date: <input type="text" name="Mdate" id="Mdate" />
+        <p>
+            Hour: <input type="text" name="Mhr" id="Mhr" />
+            Minute: <input type="text" name="Mmin" id="Mmin" />
+            Second: <input type="text" name="Msec" id="Msec" /></p>
+        <h3>Enter lower limit:</h3>
+        <p>
+            Year: <input type="text" name="myear" id="myear" />
+            Month: <input type="text" name="mmon" id="mmon" />
+            Date: <input type="text" name="mdate" id="mdate" />
+        <p>
+            Hour: <input type="text" name="mhr" id="mhr" />
+            Minute: <input type="text" name="mmin" id="mmin" />
+            Second: <input type="text" name="msec" id="msec" /></p>
+        <p><input type="submit" value="submit" /></p>
+    </form>
+</body>
+</html>

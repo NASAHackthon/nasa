@@ -38,6 +38,8 @@ for moonquake in moonquakes.find({"$and":[{"time.Year":{"$gte":year_min}}, {"tim
 maxi = str(year_max) + str(month_max) + str(date_max) + str(hr_max) + str(min_max) + str(sec_max)
 mini = str(year_min) + str(month_min) + str(date_min) + str(hr_min) + str(min_min) + str(sec_min)
 
+
 for moonquake in collection.find({"$and":[{"time_cmp":{"$lte":maxi}}, {"time_cmp":{"$gte":mini}}]}):
-    # find designated data and do whatever you like 
-    print(moonquake)
+    # find designated data and do whatever you like
+    
+print(moonquake)

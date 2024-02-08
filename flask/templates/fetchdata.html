@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>fetch data</title>
+</head>
+<body>
+    <h2>Data we got:</h2>
+    <h4>Time span : {{mini}} => {{maxi}}'</h4>
+    <hr>
+    {% if data_list != undefined %}
+        {% for moonquake in data_list %}
+            {% for key, value in moonquake.items() %}
+            <p>{{key}} : {{value}}</p>
+            {% endfor %}
+            <hr>
+        {% endfor %}
+    {% endif %}
+</body>
+</html>

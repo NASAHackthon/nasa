@@ -1,0 +1,224 @@
+<div class="main-container">
+    <header class="header">
+      <div class="column">
+        <img loading="lazy" src="https://i.ibb.co/fp4GqsK/moonlogo.png" alt="moonlogo" class = "img">
+      </div>
+      <div class="column-2">
+        <div class="logo">THquackes</div>
+      </div>
+    </header>
+    <section class="startwords">
+      <div class="titlewords">explore<br />moonquackes</div>
+      <div class="section-1-content">
+        <div class="column-button">
+          <button onclick="window.location.href='https://www.facebook.com/'" class="start-btn">start</button>
+        </div>
+        <div class="column-4">
+          <img loading="lazy" src="https://i.ibb.co/QkZXhgQ/giphy.gif" alt="spinning moon" class="spinningmoon" />
+        </div>
+      </div>
+    </section>
+  </div>
+  <style>
+    .main-container {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      background-color: rgb(0, 0, 0);
+    }
+  
+    .header {
+      width: 534px;
+      max-width: 100%;
+      padding: 0 20px;
+      display: flex;
+      gap: 20px;
+    }
+  
+    @media (max-width: 991px) {
+      .header {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0px;
+      }
+    }
+  
+    .column {
+      display: flex;
+      flex-direction: column;
+      line-height: normal;
+      width: 20%;
+      margin-left: 0px;
+    }
+  
+    @media (max-width: 991px) {
+      .column {
+        width: 100%;
+      }
+    }
+  
+    .img {
+      aspect-ratio: 1;
+      object-fit: contain;
+      object-position: center;
+      width: 100px;
+      background-blend-mode: screen; #change_this
+      overflow: hidden;
+      max-width: 100%;
+      margin-top: 20px;
+      margin-left: 20px;
+    }
+  
+    @media (max-width: 900px) {
+      .img {
+        margin-top: 33px;
+      }
+    }
+  
+    .column-2 {
+      display: flex;
+      flex-direction: column;
+      line-height: normal;
+      width: 80%;
+      margin-left: 0px;
+      margin-top: 20px;
+    }
+  
+    @media (max-width: 991px) {
+      .column-2 {
+        width: 100%;
+      }
+    }
+  
+    .logo {
+      color: hsl(0, 0%, 100%);
+      text-transform: uppercase;
+      white-space: nowrap;
+      margin: auto 0;
+      font: 700 25px Inter, serif;
+    }
+  
+    @media (max-width: 991px) {
+      .logo {
+        margin-top: 40px;
+        font-size: 40px;
+        white-space: initial;
+      }
+    }
+  
+    .section-1 {
+      align-self: stretch;
+      display: flex;
+      margin-top: 71px;
+      width: 100%;
+      padding-left: 56px;
+      flex-direction: column;
+    }
+  
+    @media (max-width: 991px) {
+      .section-1 {
+        max-width: 100%;
+        padding-left: 20px;
+        margin-top: 40px;
+      }
+    }
+  
+    .titlewords {
+      color: #fff;
+      text-transform: capitalize;
+      font: 900 70px Inter, serif;
+      margin-left: 140px;
+      margin-top: 50px;
+    }
+  
+    @media (max-width: 991px) {
+      .titlewords {
+        max-width: 80%;
+        font-size: 30px;
+      }
+    }
+  
+    .section-1-content {
+      margin-top: 45px;
+      display: flex;
+      gap: 20px;
+    }
+  
+    @media (max-width: 991px) {
+      .section-1-content {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0px;
+      }
+    }
+  
+    .column-button {
+      display: flex;
+      flex-direction: column;
+      line-height: normal;
+      width: 30%;
+      margin-left: 150px;
+    }
+  
+    @media (max-width: 991px) {
+      .column-button {
+        width: 80%;
+      }
+    }
+  
+    .start-btn {
+      color: #fff;
+      text-transform: capitalize;
+      white-space: nowrap;
+      border-radius: 20px;
+      background-color: #0060fe;
+      margin-top: 12px;
+      justify-content: center;
+      width: 90%;
+      padding: 10px 40px;
+      font: 700 25px Inter, serif;
+    }
+  
+    @media (max-width: 991px) {
+      .start-btn {
+        font-size: 40px;
+        white-space: initial;
+        margin-top: 40px;
+        margin-left: 30px; 
+       /* padding: 0 23px 0 20px;*/
+      }
+    }
+  
+    .column-4 {
+      display: flex;
+      flex-direction: column;
+      line-height: normal;
+      width: 61%;
+      margin-left: 200px;/**/
+    }
+  
+    @media (max-width: 991px) {
+      .column-4 {
+        width: 100%;
+      }
+    }
+  
+    .spinningmoon { #changethis
+      aspect-ratio: 1;
+      object-fit: contain;
+      object-position: right top;
+      width: 400%;
+      overflow: hidden;
+      flex-grow: 1;
+      margin-top: -100px;
+      margin-left: 40px;
+      margin-bottom: -20px;
+    }
+  
+    @media (max-width: 991px) {
+      .img-2 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+  </style>
